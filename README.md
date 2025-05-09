@@ -45,10 +45,39 @@ It allows **Customers**, **Employees** (chef, cashier, waiter), and the **Admini
 ---
 
 📸 Screenshots
-
-![Home](screenshots/chefsite_home.jpg)
-![Gestión de pedidos](screenshots/chefsite_home.jpg)
-![Menú del chef](screenshots/chefsite_home.jpg)
-![Reservas](screenshots/chefsite_home.jpg)
-![Menú del chef](screenshots/chefsite_home.jpg)
-![Reservas](screenshots/chefsite_home.jpg)
+<table>
+<tr>
+  <td>
+    
+  ![Home](screenshots/chefsite_login.jpg)
+    
+  </td>
+  <td>
+    
+  ![Dashboard](screenshots/chefsite_dashboard.jpg)
+  
+  </td>
+  <td>
+    
+  ![Orders report](screenshots/chefsite_delivered_orders_report.jpg)
+  
+  </td>
+</tr> 
+<tr>
+  <td>
+    
+  ![Modify order](screenshots/chefsite_modify_order.jpg)
+    
+  </td>
+  <td>
+    
+  ![Menu](screenshots/chefsite_panel_menu.jpg)
+  
+  </td>
+  <td>
+    
+  ![Report](screenshots/chefsite_report.jpg)
+  
+  </td>
+</tr> 
+</table>
