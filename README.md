@@ -58,9 +58,9 @@ It allows **Customers**, **Employees** (chef, cashier, waiter), and the **Admini
   
   </td>
   <td>
+
+  ![Menu](screenshots/chefsite_panel_menu.jpg)  
     
-  ![Orders report](screenshots/chefsite_delivered_orders_report.jpg)
-  
   </td>
 </tr> 
 <tr>
@@ -71,12 +71,12 @@ It allows **Customers**, **Employees** (chef, cashier, waiter), and the **Admini
   </td>
   <td>
     
-  ![Menu](screenshots/chefsite_panel_menu.jpg)
+  ![Report](screenshots/chefsite_report.jpg)
   
   </td>
   <td>
     
-  ![Report](screenshots/chefsite_report.jpg)
+  ![Orders report](screenshots/chefsite_delivered_orders_report.jpg)
   
   </td>
 </tr> 
