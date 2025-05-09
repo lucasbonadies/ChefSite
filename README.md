@@ -44,9 +44,11 @@ It allows **Customers**, **Employees** (chef, cashier, waiter), and the **Admini
 
 ---
 
-📸 Capturas de pantalla
+📸 Screenshots
 
-![Home](screenshots/home.png)
-![Gestión de pedidos](screenshots/pedidos.png)
-![Menú del chef](screenshots/menu-chef.png)
-![Reservas](screenshots/reservas.png)
+![Home](screenshots/chefsite_home.jpg)
+![Gestión de pedidos](screenshots/chefsite_home.jpg)
+![Menú del chef](screenshots/chefsite_home.jpg)
+![Reservas](screenshots/chefsite_home.jpg)
+![Menú del chef](screenshots/chefsite_home.jpg)
+![Reservas](screenshots/chefsite_home.jpg)
